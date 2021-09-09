@@ -1,5 +1,3 @@
-# Frontend Intern Task
-
 # Backend Intern Task
 
 
