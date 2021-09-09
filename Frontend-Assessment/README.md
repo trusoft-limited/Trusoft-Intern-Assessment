@@ -10,6 +10,8 @@
 The purpose of this exercise is to assess how you would approach a typical task.
 There is no right or wrong answer, we are more interesting in your approach than the niceties.
 
+## How long would it take to complete the task? Under 3 hours
+
 ## ABOUT THE TASK
 You are to design a mobile first responsive simple website to assess if a candidate applying for the fronend internship role meets the criteria on your local device.
 We have provided a wireframe so you don't have to bother setting up a design. Here is the link below to the wirefrane.
