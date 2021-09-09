@@ -32,14 +32,13 @@ The Website has 5 pages:
 
 A success popup message with " You are still in the game" if the candidate meets the criteria else a failure "let's part as friends" message
 
-
 ## HOW TO SUBMIT YOUR TASK
 
 1. Clone this repository to access the necessary materials needed.
 2. Complete the task
-3. Reply to the email request asking you to take this task with with a link to a private repository with your solution.
-4. Feel free to leave comments about the assumptions you made and the challenges you experienced
-5. Create a new README in your repo with: Instructions about how to run your build -if necessary and notes on what you have implemented
+3. Create a new README in your repo for your comments, please feel free to leave comments about the assumptions you made and the challenges you experienced as well as instructions about how to run your build -if necessary and notes on what you have implemented
+4. Reply to the email request asking you to take this task with with a link to a private repository with your solution.
+
 
 
 
