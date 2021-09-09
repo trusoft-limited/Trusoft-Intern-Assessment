@@ -10,6 +10,8 @@
 The purpose of this exercise is to assess how you would approach a typical task.
 There is no right or wrong answer, we are more interesting in your approach than the niceties.
 
+## How long would it take to complete the task? Under 3 hours
+
 ## ABOUT THE TASK
 The task is to provision a Parse Server and Dashboard on local. 
 Link to Parse: https://parseplatform.org/. You can find the source on the GitHub repo - https://github.com/parse-community/parse-server.
