@@ -23,8 +23,7 @@ The primary reasons we ask candidates of all levels to complete these exercises 
 # General Instructions
 Choose the task repo below that matches the role you applied for: 
 Read the read.md file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via Github issues or by emailing hr@trusoftng.com
-Create a new private repository for your exercise and add 9ijakidArchitect and Trusoft-dev (the Trusoft hiring team members) as private collaborators (We do this to preserve your anonymity so it's not obvious you are looking for a new role.)
-     
+    
 
 ## 1. Frontend Task
 ### Task is to design a responsive website, using the provided wireframes - https://github.com/trusoft-limited/Trusoft-Intern-Assessment/tree/main/Frontend-Assessment
@@ -38,8 +37,8 @@ Create a new private repository for your exercise and add 9ijakidArchitect and T
 Choose the task repo below that matches the role you applied for: 
 Read the read.md file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via Github issues or by emailing hr@trusoftng.com
 1. Create a new private repository for your exercise and add the Trusoft hiring team members as private collaborators (We do this to preserve your anonymity so it's not obvious you are looking for a new role.)
-  1. 9ijakidArchitect
-  2. Trusoft-dev
+       1. 9ijakidArchitect
+       2. Trusoft-dev
 2. Clone this repository to access the necessary materials needed and complete the task
 3. Create a new README in your repo for your comments, please feel free to leave comments about the assumptions you made and the challenges you experienced as well as instructions about how to run your build -if necessary and notes on what you have implemented
 4. Reply to the email request (hr@trusoftng.com) asking you to take this task with with a link to a private repository with your solution.
