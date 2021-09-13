@@ -47,13 +47,14 @@ Read the read.md file in the matching directory. Be sure to read the instruction
 5. Be sure to include the following in your submission
     1. A few screenshots of the finished product. Show off that work! 📸
     2. A short explanation of what you built
-    How to test/demo/run (if applicable)
-      NOTE: a 'working' exercise is awesome, however it is NOT a hard requirement. We mean it!
-      Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
-      Anything else you'd lke us to know about your submission
-      a ROADMAP.md with what you would add/change if you had more time. Dream big.
-      a super-simple test suite if applicable (even one test is a bonus)
-      Some form of lightweight technical documentation (code comments are fine)
+    3. How to test/demo/run (if applicable)
+    
+     NOTE: a 'working' exercise is awesome, however it is NOT a hard requirement. We mean it!
+      1. Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
+      2. Anything else you'd lke us to know about your submission
+      3. a ROADMAP.md with what you would add/change if you had more time. Dream big.
+      4. a super-simple test suite if applicable (even one test is a bonus)
+      5. Some form of lightweight technical documentation (code comments are fine)
 When complete email a link to the repository and any special instructions to fr@trusoftng.com
 Sit back and relax. We'll review your submission and get back to you within 2 days 😃
 
