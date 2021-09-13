@@ -32,13 +32,27 @@ The Website has 5 pages:
 
 A success popup message with " You are still in the game" if the candidate meets the criteria else a failure "let's part as friends" message
 
+
 ## HOW TO SUBMIT YOUR TASK
-
-1. Clone this repository to access the necessary materials needed.
-2. Complete the task
+Choose the task repo below that matches the role you applied for: 
+Read the read.md file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via Github issues or by emailing hr@trusoftng.com
+1. Create a new private repository for your exercise and add **9ijakidArchitect and Trusoft-dev** (the Trusoft hiring team members) as private collaborators (We do this to preserve your anonymity so it's not obvious you are looking for a new role.)
+      
+2. Clone this repository to access the necessary materials needed and complete the task
 3. Create a new README in your repo for your comments, please feel free to leave comments about the assumptions you made and the challenges you experienced as well as instructions about how to run your build -if necessary and notes on what you have implemented
-4. Reply to the email request asking you to take this task with with a link to a private repository with your solution.
-
-
+4. Reply to the email request (hr@trusoftng.com) asking you to take this task with with a link to a private repository with your solution.
+5. Be sure to include the following in your submission
+    1. A few screenshots of the finished product. Show off that work! 📸
+    2. A short explanation of what you built
+    3. How to test/demo/run (if applicable)
+    
+     NOTE: a 'working' exercise is awesome, however it is NOT a hard requirement. We mean it!
+      1. Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
+      2. Anything else you'd lke us to know about your submission
+      3. a ROADMAP.md with what you would add/change if you had more time. Dream big.
+      4. a super-simple test suite if applicable (even one test is a bonus)
+      5. Some form of lightweight technical documentation (code comments are fine)
+When complete email a link to the repository and any special instructions to fr@trusoftng.com
+Sit back and relax. We'll review your submission and get back to you within 2 days 😃
 
 
