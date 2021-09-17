@@ -39,14 +39,17 @@ Read the read.md file in the matching directory. Be sure to read the instruction
 1. Create a new private repository for your exercise and add **9ijakidArchitect and Trusoft-dev** (the Trusoft hiring team members) as private collaborators (We do this to preserve your anonymity so it's not obvious you are looking for a new role.)
       
 2. Clone this repository to access the necessary materials needed and complete the task
-3. Host the page on a free service like Heroku, Create a new README in your repo for your comments, please feel free to leave comments about the assumptions you made and the challenges you experienced as well as instructions about how to run your build -if necessary and notes on what you have implemented
+
+3. Host the page on a free service like Heroku, Netlify, 
 4. Reply to the email request (hr@trusoftng.com) asking you to take this task with with a link to the the hosted page and the  private repository with your solution.
-5. Be sure to include the following in your submission
+5. Create README in your repo for your comments, please feel free to leave comments about the assumptions you made and the challenges you experienced as well as instructions about how to run your build -if necessary and notes on what you have implementedB
+6. ** IMPORTANT ** Be sure to include the following in your submission:
     1. A few screenshots of the finished product. Show off that work! 📸
     2. A short explanation of what you built
     3. How to test/demo/run (if applicable)
     
-     NOTE: a 'working' exercise is awesome, however it is NOT a hard requirement. We mean it!
+    
+NOTE: a 'working' exercise is awesome, however it is NOT a hard requirement. We mean it, add as much infomration as you can to your READ me!
       1. Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
       2. Anything else you'd lke us to know about your submission
       3. a ROADMAP.md with what you would add/change if you had more time. Dream big.
